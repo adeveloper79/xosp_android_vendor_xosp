@@ -56,7 +56,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
 		vendor/xosp/prebuilt/common/apps/XOSPSettingsIconPack.apk:system/app/XOSPSettingsIconPack/XOSPSettingsIconPack.apk
 
-$(call inherit-product, xosp_apps/xosp_apps_essentials.mk)
 
 
 
